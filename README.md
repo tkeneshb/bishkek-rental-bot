@@ -1,8 +1,8 @@
-# Bishkek Rental Bot
+# # Bishkek Apartment Bot
 
-A Telegram bot that collects apartment listings from House.kg and Lalafo,
-filters out the realtors, and sends buyers only the ones posted by actual
-owners.
+A Telegram bot that collects for-sale apartment listings from House.kg
+and Lalafo, filters out the agencies, and sends buyers only the ones
+posted by actual owners.
 
 I built this because I got tired: every second listing on these sites is
 from an agency, and the "owners only" filter the sites provide doesn't
